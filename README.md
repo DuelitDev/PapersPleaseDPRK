@@ -1,9 +1,9 @@
 # 동무, 려권내라우 64bit 버전
 최근 'Papers, Please' 업데이트로 인해  
 더 이상 '동무, 려권내라우' 모드가 적용되지 않고 있으며  
-(Art item not found: assets/Counter.png 오류)
+(Art item not found: assets/Counter.png 오류)  
 업데이트도 진행되지 않는 것으로 보여  
-64bit 업데이트 패치를 배포합니다.
+64 bit 업데이트 패치를 배포합니다.
 
 ## 적용 방법
 1. release에서 최신 버전 다운로드

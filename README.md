@@ -8,11 +8,10 @@ Papers, Please 1.4.9 업데이트에서 게임 엔진이 Unity로 교체됨에 �
 + 능력자 분들의 기여는 언제나 환영입니다.
 
 ## 적용 방법 (1.2.76 버전)
-1. release에서 최신 버전 다운로드
-    1. [최신 버전 다운로드 링크](https://github.com/DuelitDev/PapersPleaseDPRK/releases/download/1.2.76/1.2.76-fixed.zip)
+1. release에서 최신 버전 [다운로드](https://github.com/DuelitDev/PapersPleaseDPRK/releases/download/1.2.76/1.2.76-fixed.zip)
 3. 다운로드한 파일을 압축 해제
 4. 압축 해제한 폴더를 게임 폴더에 덮어씌우기
-    1. 게임 폴더는 스팀 라이브러리에서 "속성 - 로컬 파일 - 찾아보기"에서 열 수 있습니다.
++ 게임 폴더는 스팀 라이브러리에서 "속성 - 로컬 파일 - 찾아보기"에서 열 수 있습니다.
 
 ## 버그 제보
 Github 이슈를 통해 제보 바랍니다.

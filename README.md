@@ -1,11 +1,13 @@
 # 동무, 려권내라우 64bit 버전
-최근 'Papers, Please' 업데이트로 인해  
-더 이상 '동무, 려권내라우' 모드가 적용되지 않고 있으며  
-(Art item not found: assets/Counter.png 오류)  
-업데이트도 진행되지 않는 것으로 보여  
-64 bit 업데이트 패치를 배포합니다.
 
-## 적용 방법
+## 1.4.x 업데이트에 관해
+Papers, Please 1.4.9 업데이트에서 게임 엔진이 Unity로 교체됨에 따라
+기존 파일이 교체되어 새로 리버싱을 해야하는 상황이 되었습니다.
+따라서 1.4.x 업데이트는 상당한 시간이 소요될 것으로 보이며
+리버싱 업데이트는 [여기서](https://github.com/DuelitDev/ModsPlease)진행 됩니다.
++ 능력자 분들의 기여는 언제나 환영입니다.
+
+## 적용 방법 (1.2.76 버전)
 1. release에서 최신 버전 다운로드
     1. [최신 버전 다운로드 링크](https://github.com/DuelitDev/PapersPleaseDPRK/releases/download/1.2.76/1.2.76-fixed.zip)
 3. 다운로드한 파일을 압축 해제
@@ -17,11 +19,3 @@ Github 이슈를 통해 제보 바랍니다.
 
 ## 저작권
 모든 저작권은 **팀 대포동**에 있음을 명시합니다.
-
-## 국기에 대한 경례
-![태극기](https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg)  
-<audio controls src="https://www.mois.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000010854&amp;fileSn=0"></audio>  
-**나는 자랑스러운 태극기 앞에 자유롭고 정의로운 대한민국의 무궁한 영광을 위하여 충성을 다할 것을 굳게 다짐합니다.**
-
-## 판사님
-고양이가 햇습니다. 저는 아무것도 모름니다.

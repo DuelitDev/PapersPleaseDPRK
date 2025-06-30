@@ -10,6 +10,10 @@ Papers, Please 1.4.9 업데이트에서 게임 엔진이 Unity로 교체됨에 �
 2025-06-28 추가
 + 리버싱이 완료되어 리소스를 적용 중입니다.
 
+## 적용 방법 (1.4.11 버전)
+1. PapersPlease_Data 폴더에 drpkmodassets0.resource를 추가
+2. PapersPlease_Data 폴더에 sharedassets0.assets를 덮어쓰기
+
 ## 적용 방법 (1.2.76 버전)
 1. 스팀 라이브러리에서 게임을 우클릭, 속성 - 베타 - `legacy-64 - Lecacy 64-bit build (1.2.76)` 선택 후 업데이트
 2. release에서 1.2.76 버전 (`*.*.1276`으로 끝남) [다운로드](https://github.com/DuelitDev/PapersPleaseDPRK/releases/download/1.5.1276b1)
